@@ -2,3 +2,7 @@
    font-family: 'SpaceMono-BoldItalic';
    src: url('SpaceMono-BoldItalic/font.ttf');
 }
+@font-face {
+   font-family: 'Sporting_Grotesque-Regular_web';
+   src: url('Sporting_Grotesque-Regular_web/font.ttf');
+}
