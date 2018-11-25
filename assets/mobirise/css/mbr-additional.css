@@ -2633,8 +2633,8 @@ body {
   transition: 0.2s background ease-in-out;
 }
 .cid-ra1YBUlMmK {
-  padding-top: 15px;
-  padding-bottom: 60px;
+  padding-top: 30px;
+  padding-bottom: 45px;
   background-color: #ffffff;
 }
 .cid-ra1YBUlMmK .mbr-text,
@@ -2671,7 +2671,7 @@ body {
   }
 }
 .cid-ra2LR8SglB {
-  padding-top: 15px;
+  padding-top: 30px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
@@ -2680,6 +2680,9 @@ body {
   color: #767676;
 }
 .cid-ra2LR8SglB .mbr-text B {
+  color: #004eef;
+}
+.cid-ra2LR8SglB .mbr-text P {
   color: #004eef;
 }
 .cid-r9M9sflmGX {
@@ -2717,31 +2720,31 @@ body {
 .cid-ra1YDOhnkX .mbr-text {
   color: #004eef;
 }
-.cid-r9M9sAnmlT {
+.cid-rapnpVuoJy {
   background: #ffffff;
 }
-.cid-r9M9sAnmlT .image-block {
+.cid-rapnpVuoJy .image-block {
   margin: auto;
   width: 100% !important;
 }
-.cid-r9M9sAnmlT .mbr-figure {
+.cid-rapnpVuoJy .mbr-figure {
   margin: 0 auto;
 }
-.cid-r9M9sAnmlT figcaption {
+.cid-rapnpVuoJy figcaption {
   position: relative;
 }
-.cid-r9M9sAnmlT figcaption div {
+.cid-rapnpVuoJy figcaption div {
   position: absolute;
   bottom: 0;
   width: 100%;
 }
 @media (max-width: 768px) {
-  .cid-r9M9sAnmlT .image-block {
+  .cid-rapnpVuoJy .image-block {
     width: 100% !important;
   }
 }
 .cid-ra1YEFz4H5 {
-  padding-top: 15px;
+  padding-top: 30px;
   padding-bottom: 60px;
   background-color: #ffffff;
 }
@@ -2750,6 +2753,9 @@ body {
   color: #767676;
 }
 .cid-ra1YEFz4H5 .mbr-text B {
+  color: #004eef;
+}
+.cid-ra1YEFz4H5 .mbr-text {
   color: #004eef;
 }
 .cid-r5pTPBs0HT .navbar {
