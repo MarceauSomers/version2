@@ -2141,18 +2141,24 @@ body {
 .cid-r5pTPBs0HT .dropdown-item:hover {
   color: #004eef !important;
 }
-.cid-r5Upux9owa {
+.cid-raTeN0PnRF {
+  padding-top: 15px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
-.cid-r5Upux9owa I {
+.cid-raTeN0PnRF .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-raVnuni1Dh {
+  padding-top: 120px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-raVnuni1Dh .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-raVnuni1Dh H2 {
   color: #004eef;
-}
-.cid-r5Upux9owa H1 {
-  text-align: center;
-}
-.cid-r5Upux9owa .mbr-text,
-.cid-r5Upux9owa .mbr-section-btn {
-  color: #f9f295;
 }
 .cid-r5pTPBs0HT .navbar {
   background: #ffffff;
