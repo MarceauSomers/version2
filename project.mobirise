@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Template Dreamweaver-clone",
-    "currentPage": "index.html",
+    "currentPage": "bachelor1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -16,7 +16,7 @@
         "display1Font": "SpaceMono-BoldItalic",
         "display1Size": "6",
         "display2Font": "SpaceMono-BoldItalic",
-        "display2Size": "3",
+        "display2Size": 3,
         "display5Font": "Rubik",
         "display5Size": 1.5,
         "display7Font": "Sporting_Grotesque-Regular_web",
@@ -1525,7 +1525,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>ORGANISEER TWEE ZWARTE RECHTHOEKEN OP A0-FORMAAT OP DIE MANIER DAT JE TOT EEN INTERESSANTE COMPOSITIE KOMT. DE VLAKKEN MOGEN ELKAAR NIET RAKEN.</div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>ORGANISE TWO BLACK SQUARES ONTO AN A0 SHEET IN SUCH A WAY YOU GET AN INTERESTING COMPOSITION. THE SQUARES CANNOT TOUCH.</div>\n        </div>\n    </div>\n</section>",
           "_cid": "ra1XBsKhtY",
           "_anchor": "content1-22",
           "_protectedParams": [],
@@ -1588,7 +1588,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><span style=\"font-size: 1rem;\">ONTWERP IN DUO EEN DIPTIEK. OP ELKE POSTER KOMT EEN PORTRET, MET DE NAAM VAN DE PERSOON IN KWESTIE EN EEN KORTE ZIN OF WOORD. JE ONTWERPKEUZES KUNNEN EEN MATCH OF EEN MISMATCH ZIJN.</span><br></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>CREATE A DYPTYCH IN RANDOM GROUPS OF TWO. EVERY POSTER SHOULD CONTAIN ITS DESIGNER’S NAME, COMBINED WITH A SHORT SENTENCE OR A SHORT WORD. YOUR DESIGN CHOICES CAN EITHER REFERENCE A MATCH OR A MISMATCH.\n</p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "ra1XClaDUf",
           "_anchor": "content1-23",
           "_protectedParams": [],
@@ -1792,7 +1792,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>OM KINDEREN HET ALFABET AAN TE LEREN MAAKT MEN VAAK GEBRUIK VAN EEN ABCDARIUM. MAAK JE EIGEN VERSIE MAAR RICHT JE ONTWERP OP VOLWASSENEN, NIET OP KINDEREN. OP ELKE PAGINA VAN DE PUBLICATIE WORDT ÉÉN LETTER BEHANDELD.</div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>TO TEACH KIDS THE APLHABET, ABCDARIA ARE SOMETIMES USED. CREATE YOUR OWN BOOKLET. HOWEVER, YOUR DESIGN IS AIMED AT ADULTS, NOT KIDS. EACH PAGE SHOULD TREAT ONE LETTER OF THE ALPHABET.</div>\n        </div>\n    </div>\n</section>",
           "_cid": "ra1YBUlMmK",
           "_anchor": "content1-24",
           "_protectedParams": [],
@@ -1858,7 +1858,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><b style=\"font-size: 1rem;\">DE GROEP VAN 1 BACHELOR GAAT AAN DE SLAG OM SAMEN EEN LETTERTYPE TE ONTWERPEN DAT HELEMAAL 2018 IS. UIT HET SCALA VAN EERSTE VOOR- STELLEN WORDEN EIGENSCHAPPEN GEDISTILLEERD WAAROP VERDER WORDT GEWERKT. OP HET EIND VAN DE TWEEDE DAG IS DE ‘ZWANETTA’ EEN FEIT.</b><br></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>DESIGN -AS A  GROUP- A FONT THAT’S FULLY ‘2018’. FROM A WHOLE ARRAY OF OUR OWN FIRST TRIES THE PRIME PROPERTIES OF THE FONT TO BE WERE DERRIVED. AT THE END OF DAY TWO ‘ZWANETTA WAS A FACT.\n CREATE A POSTER AFTERWARDS, USING THE FONT, TO SYMBOLISE THE YEAR 2018.&nbsp;</p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "ra2LR8SglB",
           "_anchor": "content1-2a",
           "_protectedParams": [],
@@ -1921,7 +1921,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><div>ONTWERP EEN POSTER WAAROP JE EEN CITAAT VISUALISEERT. VIA EEN EXPRESSIEVE TYPOGRAFIE – EVENTUEEL IN COMBINATIE MET EEN BEELD – INTERPRETEER, ACCENTUEER OF STUUR JE DE INHOUD VAN EEN CITAAT.</div></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><div>CREATE A POSTER ON WHICH YOU ENVISION A QUOTE. USING EXPRESSIVE TYPOGRAPHY AND IMAGES, THE CORE OF THE QUOTE SHOULD BE INTERPRET OR HIGHLIGHTED.</div></div>\n        </div>\n    </div>\n</section>",
           "_cid": "ra1YDOhnkX",
           "_anchor": "content1-25",
           "_protectedParams": [],
@@ -1987,7 +1987,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><span style=\"font-size: 1rem;\">ONTWERP EEN LP-HOES VOOR ÉÉN VAN DE SOUNDTRACKPLATEN. PROBEER JE VOOR TE STELLEN DAT DE BESTAANDE HOES ALS VOORSTEL DOOR DE ARTIEST OF HET LABEL GEWEIGERD IS, EN DAT JIJ VERZOCHT WORDT OM MET EEN TOTAAL NIEUW CONCEPT OP TE KOMEN.&nbsp;</span><br></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>DESIGN THE COVER OF A MOTION PICTURE LP RECORD. TRY TO IMAGINE THAT THE ORIGINAL DESIGN WAS REJECTED BY THE ARTIST OR BY THE LABEL AND THAT YOU WERE CHOSEN TO CREATE A NEW ONE.</p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "ra1YEFz4H5",
           "_anchor": "content1-26",
           "_protectedParams": [],
